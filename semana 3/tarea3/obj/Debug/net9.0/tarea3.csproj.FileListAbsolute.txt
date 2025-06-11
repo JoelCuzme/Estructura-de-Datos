@@ -1,0 +1,14 @@
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\bin\Debug\net9.0\tarea3.exe
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\bin\Debug\net9.0\tarea3.deps.json
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\bin\Debug\net9.0\tarea3.runtimeconfig.json
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\bin\Debug\net9.0\tarea3.dll
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\bin\Debug\net9.0\tarea3.pdb
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\obj\Debug\net9.0\tarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\obj\Debug\net9.0\tarea3.AssemblyInfoInputs.cache
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\obj\Debug\net9.0\tarea3.AssemblyInfo.cs
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\obj\Debug\net9.0\tarea3.csproj.CoreCompileInputs.cache
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\obj\Debug\net9.0\tarea3.dll
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\obj\Debug\net9.0\refint\tarea3.dll
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\obj\Debug\net9.0\tarea3.pdb
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\obj\Debug\net9.0\tarea3.genruntimeconfig.cache
+C:\Users\Javier Cuzme\universidad\semana 3\tarea3\obj\Debug\net9.0\ref\tarea3.dll
